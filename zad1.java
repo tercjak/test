@@ -1,6 +1,6 @@
 Public class TestIf{
 public static void main(String[] args){
-int zmienna = 6;
+int zmienna = 1;
 if(zmienna%2 == 0)
 System.out.println("Liczba parzysta");
 else
